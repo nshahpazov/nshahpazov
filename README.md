@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Nikola
-I am a Full Stack Software Engineer and a Data Scientist.
+A Full Stack Engineer and a Data Scientist with 8+ years of experience in Full-Stack Software Engineering and Data Science.
 
 I've studied
 - Computer Science (BSc) at Sofia University
@@ -18,11 +18,8 @@ My experience involves
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## Machine Learning and Data Science
-![Regression](https://img.shields.io/badge/Regression&nbsp;Analysis-35495E?style=for-the-badge&logoColor=white)
-![TimeSeries](https://img.shields.io/badge/Time&nbsp;Series-35495E?style=for-the-badge&logoColor=white)
-![Classification](https://img.shields.io/badge/Classification-35495E?style=for-the-badge&logoColor=white)
-![LGBM](https://img.shields.io/badge/LightGBM-35495E?style=for-the-badge&logoColor=white)
-![Neural](https://img.shields.io/badge/Neural&nbsp;Networks-35495E?style=for-the-badge&logoColor=white)
+![Regression](https://img.shields.io/badge/Predictive&nbsp;Modeling-35495E?style=for-the-badge&logoColor=white)
+![TimeSeries](https://img.shields.io/badge/Time&nbsp;Series&nbsp;and&nbsp;Demand&nbsp;Forecasting-35495E?style=for-the-badge&logoColor=white)
 
 ## Front end
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
