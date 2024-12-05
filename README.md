@@ -5,7 +5,11 @@ I've studied
 - Computer Science (BSc) at Sofia University
 - Probability Theory and Mathematical Statistics (MSc) at Sofia University.
 
-My experience involves
+During my studies I've been a teaching assistant for the following courses
+- Advanced Javascript
+- Statistics
+
+My professional experience involves
 
 ## Languages
 
